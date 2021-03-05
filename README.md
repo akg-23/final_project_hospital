@@ -1,7 +1,7 @@
 # final_project_hospital
 
 This was a Kaggle competition data set from the US census bureau on Health Insurance charges that based on key quailifer variables.
-charges was dependent on 
+Insurance Charges depended on 
 Family Size,
 Age,
 Gender,
